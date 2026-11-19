@@ -2,7 +2,7 @@
 
 <p align="center"><strong>APM 应用性能监控 · Agent 可观测性</strong></p>
 
-<p align="center">做可观测性，也写点笔记，拥抱变化中。</p>
+<p align="center"> 做可观测性，也写点笔记，拥抱变化中~ </p>
 
 <p align="center">
   <a href="https://blog.csdn.net/wangye135"><img src="https://img.shields.io/badge/CSDN-Tech_Blog-fc5531?style=flat-square" alt="CSDN" /></a>
@@ -18,9 +18,9 @@
 
 ## 最近在折腾
 
-- **APM / 应用性能监控**：链路与指标采集、Span 质量、聚合查询，关注大规模数据下的稳定性与成本
-- **Agent 可观测性**：把 Agent 的 Trace、工具调用、Token 消耗与评估结果串起来，让行为可度量、可回放
-- **工程落地**：Go / Python 服务、高吞吐数据链路与容器化部署
+- **APM 应用性能监控**：链路与指标采集、流式处理、存储优化、聚合查询，关注高并发下的业务稳定性与成本
+- **Agent 可观测性**：把 Agent 的 Trace、工具调用、Token 消耗与评估结果串起来，让行为可度量、可回放，为 Agent 产生迭代提供数据支撑
+- **AI 工程落地**：MCP、根因分析，推动运维排障向智能化演进
 
 ## 写过的东西
 
