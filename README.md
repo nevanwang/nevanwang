@@ -2,7 +2,7 @@
 
 <p align="center"><strong>APM 应用性能监控 · Agent 可观测性</strong></p>
 
-<p align="center">做可观测性，也写点笔记。持续学习中。</p>
+<p align="center">做可观测性，也写点笔记，拥抱变化中。</p>
 
 <p align="center">
   <a href="https://blog.csdn.net/wangye135"><img src="https://img.shields.io/badge/CSDN-Tech_Blog-fc5531?style=flat-square" alt="CSDN" /></a>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,mysql,redis,docker,k8s" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,py,mysql,redis,kafka,docker,k8s" alt="Tech stack" />
   <img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="48" height="48" alt="ClickHouse" />
 </p>
 
