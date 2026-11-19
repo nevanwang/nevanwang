@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,vue,java,docker,k8s,postgres,redis,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,py,mysql,redis,docker,k8s" alt="Tech stack" />
+  <img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="48" height="48" alt="ClickHouse" />
 </p>
 
 ---
