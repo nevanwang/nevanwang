@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm nevanwang 👋</h1>
 
-<p align="center"><strong>Go / Python 后端 · LLM 应用与可观测性</strong></p>
+<p align="center"><strong>APM 应用性能监控 · Agent 可观测性</strong></p>
 
-<p align="center">写点代码，也写点笔记。持续学习中。</p>
+<p align="center">做可观测性，也写点笔记。持续学习中。</p>
 
 <p align="center">
   <a href="https://blog.csdn.net/wangye135"><img src="https://img.shields.io/badge/CSDN-Tech_Blog-fc5531?style=flat-square" alt="CSDN" /></a>
@@ -17,9 +17,9 @@
 
 ## 最近在折腾
 
-- **LLM 应用 / Agent**：用 LangChain + LangGraph 做 Text-to-SQL、检索与工作流编排
-- **可观测性**：链路追踪、评估与指标，关注 LLM 应用怎么被度量和调试
-- **后端工程**：Go 服务、容器与 K8s 上的部署
+- **APM / 应用性能监控**：链路与指标采集、Span 质量、聚合查询，关注大规模数据下的稳定性与成本
+- **Agent 可观测性**：把 Agent 的 Trace、工具调用、Token 消耗与评估结果串起来，让行为可度量、可回放
+- **工程落地**：Go / Python 服务、高吞吐数据链路与容器化部署
 
 ## 写过的东西
 
